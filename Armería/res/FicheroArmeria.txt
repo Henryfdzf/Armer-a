@@ -1,0 +1,5 @@
+ArmaMelee;asda;weqw;2;qawe
+ArmaMelee;Chainsword;Sargento Cadiano;25;Warhammer 40K
+ArmaMelee;Lightsaber;Darth Vader;100;Star Wars
+ArmaDistancia;Bolter;Marine Espacial;90;Warhammer 40K
+ArmaDistancia;Carabina del abuelo;Mi abuelo;10;Vida Real

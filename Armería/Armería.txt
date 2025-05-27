@@ -1,0 +1,4 @@
+Quiero poder almacenar armas, con un menu que me deje o guardar o borra o modificar armas, quiero guardar las armas en un fichero, quiero poder ver todas las armas o verlas en función de algo (tipo de arma o universo en el que sale)
+
+Una clase abstracta llamada arma, heredan los tipos de armas ( melee, a distancia)
+las armas tendrán nombre dueño daño y universo
